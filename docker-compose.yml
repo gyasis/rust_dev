@@ -1,22 +1,19 @@
-version: "3.8"
-
 services:
   rust:
     build: .
     container_name: rust
     volumes:
-      - ./code:/home/rust
+      - ./files:/home/rust
     ports:
-      - "2222:22"
+      - 8080:8000
     tty: true
     stdin_open: true
-    command: /usr/sbin/sshd -D
-  test:
-    image: nvidia/cuda:10.2-base
-    command: nvidia-smi
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              capabilities: [gpu]
+   
+  python:
+    image: python:3.9-slim-buster
+    container_name: python
+    volumes:
+      - ./files:/app
+    environment:
+      - "CUDA_VERSION=10.2"
+    command:  bash -c "apt-get update && apt-get install -y --no-install-recommends cuda-libraries-$CUDA_VERSION cuda-cudart-$CUDA_VERSION
