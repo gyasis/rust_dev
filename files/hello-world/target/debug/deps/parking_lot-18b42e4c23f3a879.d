@@ -1,0 +1,15 @@
+/home/rust/hello-world/target/debug/deps/parking_lot-18b42e4c23f3a879.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/condvar.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/elision.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/mutex.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/once.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/raw_mutex.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/raw_rwlock.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/remutex.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/rwlock.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/util.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/deadlock.rs
+
+/home/rust/hello-world/target/debug/deps/parking_lot-18b42e4c23f3a879.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/condvar.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/elision.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/mutex.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/once.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/raw_mutex.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/raw_rwlock.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/remutex.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/rwlock.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/util.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/deadlock.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/condvar.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/elision.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/mutex.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/once.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/raw_mutex.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/raw_rwlock.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/remutex.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/rwlock.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/util.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot-0.6.4/src/deadlock.rs:

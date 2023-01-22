@@ -1,0 +1,17 @@
+services:
+  rust:
+    build: .
+    container_name: rust
+    volumes:
+      - ./files:/home/rust
+    ports:
+      - 8080:8000
+    tty: true
+    stdin_open: true
+   
+  python:
+    image: python:newest
+    container_name: python
+    volumes:
+      - ./py-files:/home/python
+

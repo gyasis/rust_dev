@@ -1,0 +1,17 @@
+services:
+  rust:
+    build: .
+    container_name: rust
+    volumes:
+      - ./files:/home/rust
+    ports:
+      - 8080:8000
+    tty: true
+    stdin_open: true
+   
+  python:
+    image: python:3.9-slim-buster
+    container_name: python
+    volumes:
+      - ./py-files:/home/python
+    # command:  bash -c "apt-get update"

@@ -1,0 +1,11 @@
+/home/rust/hello-world/target/debug/deps/parking_lot_core-31cb15c9bf72ecc8.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/linux.rs
+
+/home/rust/hello-world/target/debug/deps/parking_lot_core-31cb15c9bf72ecc8.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/linux.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/linux.rs:

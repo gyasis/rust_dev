@@ -1,0 +1,13 @@
+prefix=/home/rust/hello-world/target/wasm32-unknown-unknown/release/build/libz-sys-911e75df7898d12b/out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  rust:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: rust
+    volumes:
+      - ./files:/home/rust
+    ports:
+      - 8000:8000
+    environment:
+      - PYTHON_VERSION=3.9
+      - NODE_VERSION=14
+    tty: true
+    stdin_open: true

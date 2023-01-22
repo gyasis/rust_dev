@@ -1,0 +1,24 @@
+version: "3.8"
+
+image: rust:latest
+
+services:
+  rust:
+    build: .
+    container_name: rust
+    volumes:
+      - .:/home/rust
+    ports:
+      - "2222:22"
+    tty: true
+    stdin_open: true
+   
+  test:
+    image: nvidia/cuda:10.2-base
+    command: nvidia-smi
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
